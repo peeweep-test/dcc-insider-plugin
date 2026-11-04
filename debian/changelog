@@ -1,3 +1,9 @@
+dcc-insider-plugin (6.1.114) unstable; urgency=medium
+
+  * fix(ci): pass App secrets to release workflow
+
+ -- Zhao Fangxun <zhaofangxun@uniontech.com>  Wed, 04 Nov 2026 13:38:28 +0800
+
 dcc-insider-plugin (0.1.23) unstable; urgency=medium
 
   * i18n: Updates for project Deepin Desktop Environment (#62)
